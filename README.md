@@ -6,7 +6,7 @@ It has code samples for Authentication, Authorization, DataGrid, Database operat
 
 Please follow the intrsuctions to set it up on your machine. 
 
-![Demo_App](https://github.com/CuriousDrive/BookStores/blob/master/Documents/Intro.gif)
+![Demo_App](https://github.com/montrich09/BookStores/blob/master/Documents/Intro.gif)
 
 ## Installation
 
